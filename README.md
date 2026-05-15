@@ -220,3 +220,19 @@
 | CC               | McCabe’s Cyclomatic Complexity |
 | MAX_CC           | Maximum Value of CC Among Methods in the Class |
 | AVG_CC           | Average (Arithmetic Mean) CC of Methods in the Class |
+
+
+
+
+## Component-wise Runtime Summary
+
+The following table reports the average runtime for each non-BADC component of the SCS-BADC pipeline. Values are reported in seconds and averaged across projects within each dataset.
+
+| Dataset | Projects | Avg_Preprocessing_Time_s | Avg_SCS_OT_Time_s | Avg_RF_Training_Time_s | Avg_Prediction_Time_s |
+|:--|--:|--:|--:|--:|--:|
+| AEEEM | 5 | 0.039 | 4.207 | 0.568 | 0.014 |
+| GitHub Python | 3 | 0.393 | 1213.050 | 5.654 | 0.287 |
+| JIRA | 7 | 0.072 | 4.533 | 1.368 | 0.016 |
+| PROMISE | 6 | 0.036 | 27.310 | 1.906 | 0.018 |
+| ReLink | 3 | 0.005 | 0.337 | 0.146 | 0.009 |
+| **Overall** | **24** | **0.088** | **160.699** | **1.719** | **0.049** |
