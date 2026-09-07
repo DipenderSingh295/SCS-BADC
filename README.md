@@ -1,5 +1,5 @@
 # SCS-BADC
-# Robust Cross-Project Defect Prediction through Copula–Sinkhorn Source Alignment and Boundary-Aware Dual Critic Balancing
+# Cross-Project Defect Prediction via Copula–Sinkhorn Source Compatibility Selection and Dual-Critic Class Balancing
 # Details of Datasets
 1. AEEEM dataset :"D’Ambros, Marco, Michele Lanza, and Romain Robbes. "Evaluating defect prediction approaches: a benchmark and an extensive comparison." Empirical Software Engineering 17 (2012): 531-577".
 2. GitHub-Python dataset :"Song, Liyan, and Leandro L. Minku. “A procedure to continuously evaluate predictive performance of just-in-time software defect prediction models during software development.” IEEE Transactions on Software Engineering 49, no. 2 (2022): 646–666".
